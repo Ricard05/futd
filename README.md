@@ -1,4 +1,5 @@
 # FUTD
+![Logo del proyecto](public/images/logofut.png)
 
 Este proyecto busca desarrollar una aplicación responsiva e intuitiva para el **Comité Organizador del Mundial Escolar de Fútbol**, diseñada para funcionar de manera fluida en smartphones, tablets, pantallas inteligentes y dispositivos wearables, utilizando una única base de código.
 
